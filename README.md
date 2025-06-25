@@ -9,3 +9,7 @@ This repository contains a collection of topic modeling scripts using both class
 
 - `LDA.py` – Implements LDA topic modeling using `gensim`.
 - `BERTopic.py` – Applies BERTopic using `bertopic`.
+
+### ✅ Requirements
+
+See `requirements.txt` for package dependencies.
